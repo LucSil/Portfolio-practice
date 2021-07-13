@@ -1,2 +1,2 @@
-# Portfolio-practice
-Using CSS Grid.
+# Portfolio-practice.
+Landing page using CSS Grid.
